@@ -1,6 +1,6 @@
-          Flight Analysis
+          Flights Distribution Analysis 
           
-          flight analysis using Histrogram
+          flights analysis using Histrogram
           
           https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0
           
