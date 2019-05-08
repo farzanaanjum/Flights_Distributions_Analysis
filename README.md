@@ -6,5 +6,7 @@
           
           Central Limit Theorem (CLT) :
           
-          https://towardsdatascience.com/understanding-the-central-limit-theorem-642473c63ad8
+          The Central Limit Theorem (CLT) is a statistical theory states that given a sufficiently large sample size from a population               with a finite level of variance, the mean of all samples from the same population will be approximately equal to the mean of the           population.
+          
+          
 
